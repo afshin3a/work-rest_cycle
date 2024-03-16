@@ -16,7 +16,7 @@
 
 ۳. **اجرای اسکریپت:**
    ```bash
-   python work-rest_cycle.py
+   python work-rest-cycle.py
    ```
 
 ### توضیحات

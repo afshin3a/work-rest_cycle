@@ -6,17 +6,17 @@
 
 ۱. **کلون کردن مخزن:**
    ```bash
-   git clone https://github.com/your_username/pomodoro-timer.git
+   git clone https://github.com/afshin3a/work-rest_cycle.git
    ```
 
 ۲. **رفتن به دایرکتوری:**
    ```bash
-   cd pomodoro-timer
+   cd work-rest_cycle
    ```
 
 ۳. **اجرای اسکریپت:**
    ```bash
-   python pomodoro.py
+   python work-rest_cycle.py
    ```
 
 ### توضیحات
